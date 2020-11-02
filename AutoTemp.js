@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  have fun
-// @author       anonToTheMax
+// @author       Max
 // @match        https://myaces.nus.edu.sg/htd/*
 // @grant        none
 // ==/UserScript==
