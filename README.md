@@ -1,5 +1,8 @@
 # OrchidMantis
-A simple form filler, up to you how you use it.
+A simple form filler, the use cases are up to you
+
+## Warning
+1. If your computer is not on at the specified time, the script will not run.
 
 ## Setup (Basic)
 1. Install TamperMonkey, a chrome extention, on your chrome browswer. https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
