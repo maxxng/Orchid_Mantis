@@ -8,7 +8,8 @@ A simple form filler, up to you how you use it.
 
 4a. (For mac) go to terminal and type:  
 
-```(crontab -l 2>/dev/null; echo "1 12 * * * open https://myaces.nus.edu.sg/htd") | crontab -```
+For declaring once a day:```(crontab -l 2>/dev/null; echo "1 12 * * * open https://myaces.nus.edu.sg/htd") | crontab -```
+For declaring twice a day:```(crontab -l 2>/dev/null; echo "57 11 * * * open https://myaces.nus.edu.sg/htd \n 1 12 * * * open https://myaces.nus.edu.sg/htd") | crontab -```
 
 4b. (For windows) Check out this website on how to schedule tasks on your computer automatically https://windowsloop.com/open-webpage-on-schedule-task-scheduler/
 
