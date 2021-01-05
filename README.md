@@ -10,9 +10,5 @@ A simple form filler, up to you how you use it.
 
 ```(crontab -l 2>/dev/null; echo "1 12 * * * open https://myaces.nus.edu.sg/htd") | crontab -```
 
-4b. (For windows) go to command line and type:
-
-```schtasks /create /tn TempDeclaration /tr C:\Program Files\Internet Explorer\iexplore.exe "https://myaces.nus.edu.sg/htd" /sc daily /st 13:00:00```
-
-4c. (For windows if 4b don't work) Check out https://windowsloop.com/open-webpage-on-schedule-task-scheduler/ for more info.
+4b. (For windows) Check out this website on how to schedule tasks on your computer automatically https://windowsloop.com/open-webpage-on-schedule-task-scheduler/
 
